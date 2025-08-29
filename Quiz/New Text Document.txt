@@ -1,0 +1,20 @@
+Create a class Person with private attributes:
+
+string name
+
+int age
+
+Add constructor, getters, setters, and a method showPerson().
+
+Create a derived class Student from Person with:
+
+int studentID
+Add constructor and a method showStudent() that prints name, age, and studentID.
+
+Create another derived class Teacher from Person with:
+
+string subject
+Add constructor and a method showTeacher() that prints name, age, and subject.
+
+In main(), create objects of Person, Student, and Teacher.
+Call their methods to display information.
